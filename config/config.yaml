@@ -1,0 +1,6 @@
+storage:
+  db:
+    name: 'password-menager.db'
+  file:
+    key: password-menager.key
+    passwords: 'password-menager.pass'

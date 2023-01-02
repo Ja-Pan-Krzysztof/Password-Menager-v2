@@ -1,0 +1,7 @@
+python:
+  version: 3.10.8
+system:
+  fulname: Linux-5.15.84-1-MANJARO-x86_64-with-glibc2.36
+  machine: x86_64
+  os: Linux
+  release: 5.15.84-1-MANJARO
