@@ -1,2 +1,7 @@
 .idea/
 __pycache__/
+config-user.yaml
+startup.yaml
+*.key
+*.pass
+*.db
